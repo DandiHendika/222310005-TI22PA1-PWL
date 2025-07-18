@@ -1,4 +1,5 @@
 <h1>Tugas 3 - 6</h1>
+- Output ada di dalam folder tugas-3-6<br>
 - Tugas 3 ada di page Chapter-two<br>
 - Tugas 4 ada di middleware-chatapps-mongo<br>
 - Tugas 5 ada di page Chapter-three<br>
